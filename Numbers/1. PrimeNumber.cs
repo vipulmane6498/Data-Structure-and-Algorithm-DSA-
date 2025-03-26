@@ -1,6 +1,11 @@
 
 
 //Prime Number
+
+// Approach
+// A number is divisible by 1 and itself only
+
+
 using System;
 
 public class PrimeNumber
