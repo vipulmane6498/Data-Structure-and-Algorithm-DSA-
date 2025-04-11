@@ -1,0 +1,45 @@
+Done:-
+Check if array is Sorted - easy
+Find and delete the element - easy
+Insert Element At Any Position In Array - easy
+Inserting an element at the end of the array. - easy
+Insert new Element in Array - easy
+Largest element index in the array(return the index number in which contains the largest number) - easy
+Second Largest element index in the array - easy
+Merge Sorted Array - easy
+Remove Duplicates from sorted Array - easy
+Remove element - easy
+Replace Element At perticular Index Position - easy
+Reverse an Array - easy
+Left Rotate array by One - easy
+Move all Zeros to end - easy
+Sort the Array - Medium
+Majority element - Medium
+Rotate Array : need to add opmitmmize code - Medium
+
+
+
+
+
+-------------------------------------------------------------------------------------------------------
+
+
+
+Not Done:-
+Leader In Array Leader => print big numbers in array from right side.
+Maximum Difference Problem with order
+Frequencies in a Sorted Array
+Stock buy and sell problem(part 1)
+Stock buy and sell problem(part 2)
+Trapping Rain Water
+Maximum Consecutive  1s in a binary Array
+Maximum SubArray Sum
+Longest Even Odd SubArray(sequence of even & odd)
+Maximum circular Sum SubArray
+Minimum Consecutive Flips
+Sliding Window Technique
+Subarray with Given Sum
+Prefix sum
+Equilibrium Point
+Maximum Appearing Element
+
