@@ -6,10 +6,9 @@ Leftmost Repeating Character – Easy
 Leftmost Non Repeating Character – Easy
 Length of Last Word – Easy
 Longest Common Prefix – Easy
-Find First Non-Repeating Character - easy
 Remove Duplicates from a String – Easy → Medium
 Reverse Words in String – Medium
-Pattern Searching – Medium
+Pattern Searching(Find the Index of the First Occurrence in a String) – Medium
 
 
 
@@ -20,6 +19,7 @@ from GFG:-
 String Palindrome Check - done
 Check if a String is Subsequence of Other - done
 Check for Anagram -  done
+
 Leftmost Repeating Character - done
 Leftmost Non Repeating Character - done
 Reverse words in string -  done
@@ -46,10 +46,11 @@ Reverse a String -done
 Check Anagram -done
 Remove Duplicates from a String - done
 Check Palindrome - done
-Find First Non-Repeating Character - easy - done
-Longest Common Prefix - easy - done
+Find First Non-Repeating Character - easy-  done
 
 Find the Longest Palindromic Substring - medium
+
+Longest Common Prefix
 Check if a String is a Rotation of Another
 Count and Say Problem (LeetCode 38)
 Find All Substrings of a String
@@ -59,7 +60,6 @@ Find All Substrings of a String
 
 
 Intermediate String Questions---->
-
 String Compression (LeetCode 443)
 Valid Parentheses (LeetCode 20)
 Find the Most Frequent Character in a String
