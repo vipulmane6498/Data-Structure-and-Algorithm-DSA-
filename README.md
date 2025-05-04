@@ -1,4 +1,5 @@
-# Done:-
+# Done:
+
 - Check if array is Sorted - easy
 - Find and delete the element - easy
 - Insert Element At Any Position In Array - easy
