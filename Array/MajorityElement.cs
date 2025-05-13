@@ -50,7 +50,7 @@ public class Solution
         for (int i = 0; i < nums.Length; i++)
         {
 
-
+            //[3,2,3]
             // If count is 0, set the candidate to the current element.
             if (count == 0)
             {

@@ -43,3 +43,4 @@ Prefix sum
 Equilibrium Point
 Maximum Appearing Element
 
+var builder = WebApplication.CreateBuilder(args);

@@ -12,7 +12,7 @@ public class InsertElementAtEndOfArray
         int[] arr = new int[size];
 
         // Step 3: Input elements into the array
-        Console.WriteLine("Enter the elements of the array: ");
+        Console.WriteLine("Enter the elements of the array: ");                                                                         
         for (int i = 0; i < size; i++) 
         {
             arr[i] = Convert.ToInt32(Console.ReadLine()); // Read each element

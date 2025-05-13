@@ -43,7 +43,7 @@ public class ReplaceElementAtPerticularIndexPosition
 /*
 1
 2
-3
+99
 4
 5
 6
