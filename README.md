@@ -14,6 +14,7 @@
 - Reverse an Array - easy
 - Left Rotate array by One - easy
 - Move all Zeros to end - easy
+- Leader In Array => print big numbers in array from right side. - easy
 - Sort the Array - Medium
 - Majority element - Medium
 - Rotate Array : need to add opmitmmize code - Medium
