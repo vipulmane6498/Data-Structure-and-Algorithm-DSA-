@@ -1,5 +1,5 @@
 // Check if a String is Subsequence of Other
-//it should be in order
+//it should be in order but it is ok if they are not one after another
 //e.g. s1="ABCDEF" s2="ADE" => true
 // s1="ABCDEF" s2="AEB" => false
 using System;

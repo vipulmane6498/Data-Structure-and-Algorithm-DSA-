@@ -9,6 +9,7 @@ Longest Common Prefix – Easy
 Remove Duplicates from a String – Easy → Medium
 Reverse Words in String – Medium
 Pattern Searching(Find the Index of the First Occurrence in a String) – Medium
+Check if strings are rotationals - Easy
 
 
 
@@ -27,10 +28,10 @@ Pattern Searching - done
 Length of last word - done
 
 
-Pattern saerching for distinct 
+Pattern searching for distinct 
 Rabin Carp algorithm
 KMP Algorithm
-Check if strings are rotationals
+Check if strings are rotationals - Easy
 Anagram Search
 Lexicographic rank of string
 Longest string with distinct characters.
