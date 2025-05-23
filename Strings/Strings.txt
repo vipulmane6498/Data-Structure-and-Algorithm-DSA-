@@ -9,6 +9,7 @@ Longest Common Prefix – Easy
 Remove Duplicates from a String – Easy → Medium
 Reverse Words in String – Medium
 Pattern Searching(Find the Index of the First Occurrence in a String) – Medium
+Pattern searching for distinct - Medium - done
 Check if strings are rotationals - Easy
 
 
@@ -17,22 +18,9 @@ Check if strings are rotationals - Easy
 
 from GFG:-
 
-String Palindrome Check - done
-Check if a String is Subsequence of Other - done
-Check for Anagram -  done
 
-Leftmost Repeating Character - done
-Leftmost Non Repeating Character - done
-Reverse words in string -  done
-Pattern Searching - done
-Length of last word - done
-
-
-Pattern searching for distinct 
 Rabin Carp algorithm
 KMP Algorithm
-Check if strings are rotationals - Easy
-Anagram Search
 Lexicographic rank of string
 Longest string with distinct characters.
 --------------------------------------------------------------
@@ -40,19 +28,9 @@ Longest string with distinct characters.
 from chatGPT:- 
 
 
-Basic String Questions::::
 
-Palindrome Check -  done
-Reverse a String -done
-Check Anagram -done
-Remove Duplicates from a String - done
-Check Palindrome - done
-Find First Non-Repeating Character - easy-  done
 
 Find the Longest Palindromic Substring - medium
-
-Longest Common Prefix
-Check if a String is a Rotation of Another
 Count and Say Problem (LeetCode 38)
 Find All Substrings of a String
 

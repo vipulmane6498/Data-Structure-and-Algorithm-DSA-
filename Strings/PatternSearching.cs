@@ -1,5 +1,40 @@
 
+/*
+Pattern Searching in C#: 
+// This code performs pattern searching in a string. It checks for all occurrences of a pattern in a given string and prints the starting index of each occurrence.
 
+Approach:
+
+1. Inputs:
+  a. first: The main string
+  b. second: The pattern to search
+
+2. Loop through first:
+  a. For each index i, check if second matches first starting from i.
+
+3. Inner comparison:
+  a. Compare characters of second with substring in first.
+  b. Break if any character doesn’t match.
+
+4. If full match (j == n):
+  a. Print the starting index i.
+
+5. Output:
+  a. All starting indices where the pattern is found.
+
+*/
+
+
+
+
+
+If full match (j == n):
+
+Print the starting index i.
+
+Output:
+
+All starting indices where the pattern is found.
 
 
 using System;
