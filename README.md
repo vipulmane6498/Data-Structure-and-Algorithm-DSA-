@@ -18,3 +18,4 @@
 - Sort the Array - Medium
 - Majority element - Medium
 - Rotate Array : need to add opmitmmize code - Medium
+- Frequencies in a Sorted Array - Easy
