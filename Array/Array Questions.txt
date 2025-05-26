@@ -17,6 +17,7 @@ Leader In Array => print big numbers in array from right side. - easy
 Sort the Array - Medium
 Majority element - Medium
 Rotate Array : need to add opmitmmize code - Medium
+Frequencies in a Sorted Array - Easy
 
 
 
@@ -28,20 +29,20 @@ Rotate Array : need to add opmitmmize code - Medium
 
 Not Done:-
 
-Maximum Difference Problem with order
-Frequencies in a Sorted Array
-Stock buy and sell problem(part 1)
-Stock buy and sell problem(part 2)
-Trapping Rain Water
-Maximum Consecutive  1s in a binary Array
-Maximum SubArray Sum
-Longest Even Odd SubArray(sequence of even & odd)
-Maximum circular Sum SubArray
-Minimum Consecutive Flips
-Sliding Window Technique
-Subarray with Given Sum
-Prefix sum
-Equilibrium Point
-Maximum Appearing Element
+Sort Array by Increasing Frequency - Easy
+Maximum Difference Problem with order - Easy
+Frequencies in a Sorted Array - Easy
 
-var builder = WebApplication.CreateBuilder(args);
+Stock Buy and Sell Problem (Part 1) - Easy
+Stock Buy and Sell Problem (Part 2) - Medium
+Trapping Rain Water - Hard
+Maximum Consecutive 1s in a Binary Array - Easy
+Maximum Subarray Sum (Kadane’s Algorithm) - Easy to Medium
+Longest Even-Odd Subarray - Easy
+Maximum Circular Subarray Sum - Medium
+Minimum Consecutive Flips - Easy
+Sliding Window Technique - Medium
+Subarray with Given Sum - Easy (if +ve only) / Medium (if any integers)
+Prefix Sum - Easy
+Equilibrium Point - Easy
+Maximum Appearing Element - Medium
