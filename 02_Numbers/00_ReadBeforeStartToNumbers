@@ -1,1 +1,18 @@
 
+Patterns in Number Problem:
+
+1. Find Remainder(e.g. num%10 = remainder) and Quetiont(num/10=quetionts) problem:
+1.1. CheckEvenOddNumber
+1.2. CountDigitsForNnumber
+1.3. ReverseNumber
+1.4. CheckPalindromeNumber
+1.5. CheckPrimeNumber
+1.6. PrimeNumber1ToN
+1.7. CheckPrimePalindrome
+
+2. Logical Base
+2.1. Factorial
+2.2 FactoailOfRang1ToN
+
+
+
