@@ -35,7 +35,7 @@ Problems on Numbers:
 033. All Divisors of a Number
 034. Sieve of Eratosthenes
 035. Computing Power 
-036. Iter       ative Power
+036. Iterative Power
 037. Absolute Value
 038. Convert Celsius To Fahrenheit
 039. Quadratic Equation Roots
