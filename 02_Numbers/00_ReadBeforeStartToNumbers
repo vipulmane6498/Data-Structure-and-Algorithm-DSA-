@@ -1,14 +1,14 @@
 
 Patterns in Number Problem:
 
-1. Find Remainder(e.g. num%10 = remainder) or Quetiont(num/10=quetionts) or Power(e.g. 2^n) problem:
-1.1. CheckEvenOddNumber
-1.2. CountDigitsForNnumber
-1.3. ReverseNumber
-1.4. CheckPalindromeNumber
-1.5. CheckPrimeNumber
-1.6. PrimeNumber1ToN
-1.7. CheckPrimePalindrome
+1. Using Remainder (num % 10), Quotient (num / 10), or Power (2^n, 10^n) concepts:
+  1.1. CheckEvenOddNumber – Uses remainder (num % 2).
+  1.2. CountDigitsInNumber – Uses quotient (num / 10) repeatedly.
+  1.3. ReverseNumber – Uses remainder (num % 10) and quotient.
+  1.4. CheckPalindromeNumber – Reverse number + compare with original.
+  1.5. CheckPrimeNumber – Uses loop & modulus (divisibility check).
+  1.6. PrintPrimeNumbers1ToN – Loop from 1 to N, check primality.
+  1.7. CheckPrimePalindrome – Combination of prime + palindrome check.
 
 2. Logical Base
 2.1. Factorial
