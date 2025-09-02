@@ -1,7 +1,7 @@
 
 Patterns in Number Problem:
 
-1. Find Remainder(e.g. num%10 = remainder) and Quetiont(num/10=quetionts) problem:
+1. Find Remainder(e.g. num%10 = remainder) or Quetiont(num/10=quetionts) or Power(e.g. 2^n) problem:
 1.1. CheckEvenOddNumber
 1.2. CountDigitsForNnumber
 1.3. ReverseNumber
