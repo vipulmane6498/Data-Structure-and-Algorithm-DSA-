@@ -1,6 +1,6 @@
 Problems on Numbers:
 
-001. CheckEvenOddNumber
+001. CheckEvenOddNumber - Number Sheet
 002. Count Digits
 003. ReverseNumber
 004. CheckPalindromeNumber
@@ -29,7 +29,7 @@ Problems on Numbers:
 027. DECIMAL to	HEXADECIMAL
 028. HEXADECIMAL to DECIMAL	
 029. DECIMAL to	ALL(Octal, Hexa and Binary)
-030. GCD or HCF or two Numbers - Easy
+030. GCD or HCF or two Numbers  - GFG
 031. LCM of Two Numbers - Easy
 032. Prime Factors
 033. All Divisors of a Number
