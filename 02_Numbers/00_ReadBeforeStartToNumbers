@@ -9,6 +9,7 @@ Patterns in Number Problem:
   1.5. CheckPrimeNumber – Uses loop & modulus (divisibility check).
   1.6. PrintPrimeNumbers1ToN – Loop from 1 to N, check primality.
   1.7. CheckPrimePalindrome – Combination of prime + palindrome check.
+  1.8. CheckArmstrongNumber -
 
 2. Logical Base
   2.1. Factorial
