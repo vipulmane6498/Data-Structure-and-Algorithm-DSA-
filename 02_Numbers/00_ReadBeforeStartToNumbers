@@ -1,24 +1,25 @@
 
 Patterns in Number Problem:
 
-1. Using Remainder (num % 10), Quotient (num / 10), or Power (2^n, 10^n) concepts:
-  1.1. CheckEvenOddNumber – Uses remainder (num % 2).
-  1.2. CountDigitsInNumber – Uses quotient (num / 10) repeatedly.
-  1.3. ReverseNumber – Uses remainder (num % 10) and quotient.
-  1.4. CheckPalindromeNumber – Reverse number + compare with original.
-  1.5. CheckPrimeNumber – Uses loop & modulus (divisibility check).
-  1.6. PrintPrimeNumbers1ToN – Loop from 1 to N, check primality.
-  1.7. CheckPrimePalindrome – Combination of prime + palindrome check.
-  1.8. CheckArmstrongNumber -
-  1.9. RangeOfArmstrongNumber -
-  2.0. CheckStrongNumber -
-  2.1. RangeOfStrongNumber - 
-  2.2. CheckPerfectNumber - 
+1. Using Remainder (num % 10), Quotient (num / 10), or Power (2^n, 10^n) concepts
+  1.1. CheckEvenOddNumber – Uses remainder (num % 2) to check if a number is even or odd.
+  1.2. CountDigitsInNumber – Uses repeated division (num / 10) to count digits.
+  1.3. ReverseNumber – Extracts digits using remainder and rebuilds number in reverse.
+  1.4. CheckPalindromeNumber – Compares reversed number with the original.
+  1.5. CheckPrimeNumber – Uses loop & modulus to check divisibility.
+  1.6. PrintPrimeNumbers1ToN – Loops through numbers from 1 to N, prints primes.
+  1.7. CheckPrimePalindrome – Checks both prime and palindrome properties.
+  1.8. CheckArmstrongNumber – Sum of digits^number_of_digits = original number.
+  1.9. RangeOfArmstrongNumber – Finds Armstrong numbers in a given range.
+  1.10. CheckStrongNumber – Sum of factorial of digits = original number.
+  1.11. RangeOfStrongNumber – Finds all strong numbers within a range.
+  1.12. CheckPerfectNumber – Sum of proper divisors = original number.
+  1.13. RangeOfPerfectNumber – Finds perfect numbers in a range.
 
 2. Logical Base
-  2.1. Factorial
-  2.2 FactoailOfRang1ToN
-  2.3 TrailingZerosInFactorial
+  2.1. Factorial – Product of numbers from 1 to n.
+  2.2. FactorialOfRange1ToN – Prints factorial for each number from 1 to N.
+  2.3. TrailingZerosInFactorial – Counts zeros at the end of factorial (caused by 2 × 5 pairs) or devide the given number with multiple of 5 and store its output in res.
 
 
 
