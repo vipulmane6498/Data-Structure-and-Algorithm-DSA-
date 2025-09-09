@@ -1,6 +1,5 @@
 
 Patterns in Number Problem:
-
 1. Using Remainder (num % 10), Quotient (num / 10), or Power (2^n, 10^n) concepts
   1.1. CheckEvenOddNumber – Uses remainder (num % 2) to check if a number is even or odd.
   1.2. CountDigitsInNumber – Uses repeated division (num / 10) to count digits.
