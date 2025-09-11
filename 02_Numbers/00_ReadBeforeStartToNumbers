@@ -19,7 +19,8 @@ Patterns in Number Problem:
   2.1. Factorial – Product of numbers from 1 to n.
   2.2. FactorialOfRange1ToN – Prints factorial for each number from 1 to N.
   2.3. TrailingZerosInFactorial – Counts zeros at the end of factorial (caused by 2 × 5 pairs) or devide the given number with multiple of 5 and store its output in res.
-  2.3. FibonacciNumber
+  2.3. FibonacciNumber - addition of previous 2 numbers
+  2.4. RangeOfFibonacciNumbers - find the serial from 1 to n with addtion of previous 2 numbers
 
 
 
