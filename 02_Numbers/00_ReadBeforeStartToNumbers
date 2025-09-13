@@ -22,6 +22,7 @@ Patterns in Number Problem:
   2.3. TrailingZerosInFactorial – Counts zeros at the end of factorial (caused by 2 × 5 pairs) or devide the given number with multiple of 5 and store its output in res.
   2.3. FibonacciNumber - addition of previous 2 numbers
   2.4. RangeOfFibonacciNumbers - find the serial from 1 to n with addtion of previous 2 numbers
+  2.5. Swap2NumbersUsing3rdVariable - assign one value to another and swap
 
 
 
