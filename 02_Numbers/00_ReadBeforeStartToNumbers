@@ -23,6 +23,7 @@ Patterns in Number Problem:
   2.3. FibonacciNumber - addition of previous 2 numbers
   2.4. RangeOfFibonacciNumbers - find the serial from 1 to n with addtion of previous 2 numbers
   2.5. Swap2NumbersUsing3rdVariable - assign one value to another and swap
+  2.6. _Swap2Numberswithout3rdVariable - do add substraction do swap 2 numbers
 
 
 
