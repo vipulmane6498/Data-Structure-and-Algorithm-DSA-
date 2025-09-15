@@ -1,3 +1,5 @@
+Analysis of Algorithm:
+
 We want to calculate:
 
 👉 Example: n = 3 → 1 + 2 + 3 = 6
