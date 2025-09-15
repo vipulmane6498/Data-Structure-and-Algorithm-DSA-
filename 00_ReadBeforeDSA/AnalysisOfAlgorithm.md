@@ -1,3 +1,6 @@
+
+Algorithm -> it is a group of steps that solve the problem
+
 Analysis of Algorithm:
 
 We want to calculate:
