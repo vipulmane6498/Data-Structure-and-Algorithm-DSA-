@@ -1,5 +1,5 @@
 
-Algorithm -> it is a group of steps that solve the problem
+Algorithm -> The way to organize data in main memory or Ram. Algorithm is the sequence of steps that younwrite to solve a problem.
 
 Analysis of Algorithm:
 
