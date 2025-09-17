@@ -16,6 +16,7 @@ Patterns in Number Problem:
   1.13. RangeOfPerfectNumber – Finds perfect numbers in a range.
   1.14. SumOfPrimeNumberOfGivenRange - Uses loop & modulus to check divisibility and keep adding prime numbers
   1.15. DecimalToBinary
+  1.16. BinaryToDecimal
 
 2. Logical Base
   2.1. Factorial – Product of numbers from 1 to n.
