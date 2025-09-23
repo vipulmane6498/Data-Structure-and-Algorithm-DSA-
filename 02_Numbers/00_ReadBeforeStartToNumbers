@@ -15,8 +15,10 @@ Patterns in Number Problem:
   1.12. CheckPerfectNumber – Sum of proper divisors = original number.
   1.13. RangeOfPerfectNumber – Finds perfect numbers in a range.
   1.14. SumOfPrimeNumberOfGivenRange - Uses loop & modulus to check divisibility and keep adding prime numbers
-  1.15. DecimalToBinary
-  1.16. BinaryToDecimal
+  1.15. DecimalToBinary - Get remainder by diving given number 2, keep adding remainder to string and divide given number by 2
+  1.16. BinaryToDecimal - Get the remainder by dividing the given number by 10, keep adding the remainder multiplied by 2 raised to the power of its current position, and remove the last digit by dividing the number by 10
+  1.17. DecimalToOctal - Get remainder by diving given number 8, keep adding remainder to string and divide given number by 8
+
 
 2. Logical Base
   2.1. Factorial – Product of numbers from 1 to n.
