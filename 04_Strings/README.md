@@ -1,6 +1,6 @@
-List of pattern technique to solve String problems:
+- List of pattern technique to solve String problems:
 
-Two Pointers
+- Two Pointers
 Sliding Window
 Hashing / Hash Map / Set (for frequency or uniqueness checks)
 String Reversal / Rotation
