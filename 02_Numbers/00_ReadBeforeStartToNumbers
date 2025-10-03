@@ -20,6 +20,7 @@ Patterns in Number Problem:
   1.17. DecimalToOctal - Get remainder by diving given number 8, keep adding remainder to string and divide given number by 8
   1.18. OctalToDecimal - Get the remainder by dividing the given number by 10, keep adding the remainder multiplied by 8 raised to the power of its current position, and remove the last digit by dividing the number by 10
   1.19. DecimalToHexadecimal - Get remainder by diving given number 16, keep adding remainder to string and divide given number by 16
+  1.20. HexadecimalToDecimal - 
 
 
 2. Logical Base
