@@ -22,6 +22,7 @@ Patterns in Number Problem:
   1.19. DecimalToHexadecimal - Get remainder by diving given number 16, keep adding remainder to string and divide given number by 16
   1.20. HexadecimalToDecimal - 
   1.21. DecimalToBinaryOctalHexadecimal -
+  1.22. 30_GCDOrHCFForTwoNumbers - Devide both the given number by starts from given smaller number till 1 and check if any highest number devides both the number and leave zero as a remainder.
 
 
 2. Logical Base
