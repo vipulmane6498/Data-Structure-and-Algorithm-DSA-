@@ -24,6 +24,7 @@ Patterns in Number Problem:
   1.21. DecimalToBinaryOctalHexadecimal -
   1.22. GCDOrHCFForTwoNumbers - Devide both the given number by starts from given smaller number till 1 and check if any highest number devides both the number and leave zero as a remainder.
   1.23. LowestCommonMultipleLCM - Find GCD and futher multiply given two number and devide it by GCD
+  1.24. PrimeFactors - Divide the given number by all numbers from 2 to that number, and select only those divisors that are prime (i.e., numbers that divide completely and are themselves prime). These are the prime factors of the number.
 
 
 2. Logical Base
