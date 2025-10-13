@@ -27,6 +27,7 @@ Patterns in Number Problem:
   1.24. PrimeFactors - Divide the given number by all numbers from 2 to that number, and select only those divisors that are prime (i.e., numbers that divide completely and are themselves prime). These are the prime factors of the number.
   1.25. AllDivisorsOfNumber - finds all divisors of a number by looping from 1 to √n, checking divisibility, and printing both i and n/i to list all divisors in ascending order in O(√n) time.
   1.26. Sieve of Eratosthenes - First assuming all numbers are prime using a boolean array isPrime[n+1] filled with true, then iterating from 2 to √n, and for each number i that is still marked as prime, marking all its multiples as not prime, and finally printing all numbers that remain marked as prime.
+  1.27. Computing Power - (Fast Power using Recursion) calculates xⁿ by recursively finding xⁿ⁄², squaring it, and multiplying by x again if n is odd, making the computation faster with O(log n) time complexity.
 
 
 2. Logical Base
