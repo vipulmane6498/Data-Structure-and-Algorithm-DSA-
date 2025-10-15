@@ -40,6 +40,7 @@ Patterns in Number Problem:
   2.5. Swap2NumbersUsing3rdVariable - assign one value to another and swap
   2.6. Swap2Numberswithout3rdVariable - do add substraction do swap 2 numbers
   2.7. Swap2Numberswithout3rdVariable.cs - do add substraction do swap 3 numbers
+  2.8. AbsoluteValue - It is always non-negative.
 
 
 
