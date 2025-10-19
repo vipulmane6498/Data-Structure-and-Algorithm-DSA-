@@ -35,12 +35,13 @@ Patterns in Number Problem:
   2.1. Factorial – Product of numbers from 1 to n.
   2.2. FactorialOfRange1ToN – Prints factorial for each number from 1 to N.
   2.3. TrailingZerosInFactorial – Counts zeros at the end of factorial (caused by 2 × 5 pairs) or devide the given number with multiple of 5 and store its output in res.
-  2.3. FibonacciNumber - addition of previous 2 numbers
-  2.4. RangeOfFibonacciNumbers - find the serial from 1 to n with addtion of previous 2 numbers
-  2.5. Swap2NumbersUsing3rdVariable - assign one value to another and swap
-  2.6. Swap2Numberswithout3rdVariable - do add substraction do swap 2 numbers
-  2.7. Swap2Numberswithout3rdVariable.cs - do add substraction do swap 3 numbers
-  2.8. AbsoluteValue - It is always non-negative.
+  2.4.  Digits In Factorial - 
+  2.5. FibonacciNumber - addition of previous 2 numbers
+  2.6. RangeOfFibonacciNumbers - find the serial from 1 to n with addtion of previous 2 numbers
+  2.7. Swap2NumbersUsing3rdVariable - assign one value to another and swap
+  2.8. Swap2Numberswithout3rdVariable - do add substraction do swap 2 numbers
+  2.9. Swap2Numberswithout3rdVariable.cs - do add substraction do swap 3 numbers
+  2.10. AbsoluteValue - It is always non-negative.
 
 3. Formula Base
   3.1. Convert Celsius To Fahrenheit -> formula:  (Celcius*9/5)+32 
