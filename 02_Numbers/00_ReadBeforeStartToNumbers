@@ -29,6 +29,7 @@ Patterns in Number Problem:
   1.26. Sieve of Eratosthenes - First assuming all numbers are prime using a boolean array isPrime[n+1] filled with true, then iterating from 2 to √n, and for each number i that is still marked as prime, marking all its multiples as not prime, and finally printing all numbers that remain marked as prime.
   1.27. Computing Power - (Fast Power using Recursion) calculates xⁿ by recursively finding xⁿ⁄², squaring it, and multiplying by x again if n is odd, making the computation faster with O(log n) time complexity.
   1.28. IterativePower - If the power is odd, multiply the result by the base once. Then square the base and divide the power by 2 in each step.
+  1.29. PrimalityTest - Exackly same as Prime Number
 
 
 2. Logical Base
