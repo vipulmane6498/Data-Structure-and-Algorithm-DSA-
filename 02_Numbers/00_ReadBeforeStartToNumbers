@@ -51,6 +51,7 @@ Patterns in Number Problem:
   3.2. QuadraticEquationRoot -> formula: (Sqaure(b)+-SquareRoot(b*b-4*a*c))/2*a
   3.3. GPTerm -> formula:Tn​=a×r(raise to(n−1))
   3.4. Addition Under Modulo -> formula: (a+b)%M
+  3.5. Multiplication Under Modulo -> formula: (a*b)%M
 
 
 
