@@ -52,6 +52,7 @@ Patterns in Number Problem:
   3.3. GPTerm -> formula:Tn​=a×r(raise to(n−1))
   3.4. Addition Under Modulo -> formula: (a+b)%M
   3.5. Multiplication Under Modulo -> formula: (a*b)%M
+  3.6. Modular Inverse -> formula: (a*b)%M==1 ->  I want the smallest number that, when multiplied with n and taken modulo m, gives a remainder of 1; otherwise return -1.”
 
 
 
