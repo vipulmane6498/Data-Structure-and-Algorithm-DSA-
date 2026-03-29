@@ -1,6 +1,6 @@
 
 /*
-Sliding Window Technique -  easy
+Sliding Window Technique -  Medium
     solution in brief: add the first k elements(index 0 to k-1) and then keep adding next element and removing previous element to get the sum of next window. Keep updating the maximum sum.
 
 APPROACH (Sliding Window Technique):
