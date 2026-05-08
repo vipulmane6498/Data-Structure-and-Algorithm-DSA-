@@ -76,8 +76,16 @@
     ---------------------------------------------------------
     i = 2, arr[i] = -10
 
-    Negative element found
-    Swap maxEnd and minEnd
+        Negative element found
+        Swap maxEnd and minEnd
+        
+        Before Swap:
+        maxEnd = -3
+        minEnd = -18
+        
+        After Swap:
+        maxEnd = -18
+        minEnd = -3
 
     maxEnd = max( -10, -18 * -10 )
             = max(-10, 180)
