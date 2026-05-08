@@ -189,3 +189,7 @@ class Solution {
         Console.WriteLine("Maximum Product Subarray: " + result);
     }
 }
+/*
+OUTPUT:
+Maximum Product Subarray: 180
+*/
